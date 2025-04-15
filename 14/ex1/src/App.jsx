@@ -188,8 +188,8 @@ function UserPosts({ posts }) {
 // iv) ProfilePage.js
 function ProfilePage() {
   const userData = {
-    name: "Paarth Jain",
-    email: "pj@gmail.com",
+    name: "Adith Biju",
+    email: "adith@gmail.com",
     bio: "Frontend developer with 5 years of experience in React and modern JavaScript frameworks. Passionate about creating intuitive user experiences and clean code.",
     profileImage: "placeholder",
     posts: [

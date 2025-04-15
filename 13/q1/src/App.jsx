@@ -252,7 +252,7 @@ function App() {
       <StringReverser />
       <RandomNumberGenerator />
       <LeapYearChecker />
-      <UserGreeting firstName="Paarth " lastName="Jain" />
+      <UserGreeting firstName="Adith " lastName="Biju" />
     </div>
   );
 }
